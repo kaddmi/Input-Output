@@ -18,7 +18,7 @@ namespace Files
                 Console.WriteLine("Files in directory:");
                 foreach (string file in filesName)
                 {
-                    Console.WriteLine(file);
+                    Console.WriteLine(Path.GetFileName(file));
                 }
                 Console.WriteLine("Enter name of file");
                 string chosFile = Console.ReadLine();

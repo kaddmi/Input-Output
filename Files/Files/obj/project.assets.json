@@ -671,11 +671,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\gk\\Files\\Files\\Files.csproj",
+      "projectUniqueName": "D:\\gk\\Input-Output\\Files\\Files\\Files.csproj",
       "projectName": "Files",
-      "projectPath": "D:\\gk\\Files\\Files\\Files.csproj",
+      "projectPath": "D:\\gk\\Input-Output\\Files\\Files\\Files.csproj",
       "packagesPath": "C:\\Users\\Nastya\\.nuget\\packages\\",
-      "outputPath": "D:\\gk\\Files\\Files\\obj\\",
+      "outputPath": "D:\\gk\\Input-Output\\Files\\Files\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

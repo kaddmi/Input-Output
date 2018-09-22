@@ -20,3 +20,14 @@ D:\gk\Files\Files\obj\Debug\netcoreapp2.0\Files.AssemblyInfoInputs.cache
 D:\gk\Files\Files\obj\Debug\netcoreapp2.0\Files.AssemblyInfo.cs
 D:\gk\Files\Files\obj\Debug\netcoreapp2.0\Files.dll
 D:\gk\Files\Files\obj\Debug\netcoreapp2.0\Files.pdb
+D:\gk\Input-Output\Files\Files\bin\Debug\netcoreapp2.0\Files.deps.json
+D:\gk\Input-Output\Files\Files\bin\Debug\netcoreapp2.0\Files.runtimeconfig.json
+D:\gk\Input-Output\Files\Files\bin\Debug\netcoreapp2.0\Files.runtimeconfig.dev.json
+D:\gk\Input-Output\Files\Files\bin\Debug\netcoreapp2.0\Files.dll
+D:\gk\Input-Output\Files\Files\bin\Debug\netcoreapp2.0\Files.pdb
+D:\gk\Input-Output\Files\Files\obj\Debug\netcoreapp2.0\Files.csprojResolveAssemblyReference.cache
+D:\gk\Input-Output\Files\Files\obj\Debug\netcoreapp2.0\Files.csproj.CoreCompileInputs.cache
+D:\gk\Input-Output\Files\Files\obj\Debug\netcoreapp2.0\Files.AssemblyInfoInputs.cache
+D:\gk\Input-Output\Files\Files\obj\Debug\netcoreapp2.0\Files.AssemblyInfo.cs
+D:\gk\Input-Output\Files\Files\obj\Debug\netcoreapp2.0\Files.dll
+D:\gk\Input-Output\Files\Files\obj\Debug\netcoreapp2.0\Files.pdb
