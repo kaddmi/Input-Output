@@ -1,7 +1,4 @@
 ﻿using System;
-using System.IO;
-using System.Linq;
-using System.Collections.Generic;
 
 namespace Files
 {
@@ -9,33 +6,20 @@ namespace Files
     {
         static void Main(string[] args)
         {
+            Files file = new Files();
             Console.WriteLine("Enter path");
             string path = Console.ReadLine();
             try
             {
-                List<string> filesName = new List<string>();
-                filesName = Directory.GetFiles(path).ToList<string>();
-                Console.WriteLine("Files in directory:");
-                foreach (string file in filesName)
-                {
-                    Console.WriteLine(Path.GetFileName(file));
-                }
+                file.FilesInDirectory(path);
                 Console.WriteLine("Enter name of file");
-                string chosFile = Console.ReadLine();
-                StreamReader streamReader = new StreamReader(path + chosFile);
-                string line;
-                line = streamReader.ReadLine();
-                while (line != null)
-                {
-                    Console.WriteLine(line);
-                    line = streamReader.ReadLine();
-                }
-                streamReader.Close();
+                string nameOfFile = Console.ReadLine();
+                file.ShowFile(path, nameOfFile);
             }
             catch(Exception ex)
             {
                 Console.WriteLine("Error: " + ex.Message);
-            }     
+            }
             Console.ReadLine();
         }
     }
